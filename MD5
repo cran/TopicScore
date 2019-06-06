@@ -1,0 +1,14 @@
+863b460d17ec89b3198c4a1a3ba06c07 *DESCRIPTION
+f8b91f50e74b847641e9dd3d41826f25 *LICENSE
+c21f0a6bb47701dfb80e66da3ffca4b7 *NAMESPACE
+03bc0c92f974d3299ca06ea848792e3e *R/W_from_AD.R
+537d59da971e8818e0bc4bc3b67bda68 *R/data.R
+49100cfdd5dc95203f91eb3748fe0284 *R/error_A.R
+4d904b653b435816c70cf69171b2248b *R/topic_score.R
+5cce070f85e91bde5f17e1a8daa692e4 *data/AP.rda
+c4fcfc53edb77611a0eafda960edd552 *man/AP.Rd
+db5c03b7bff59580bf0a0ba72874229c *man/W_from_AD.Rd
+d2bbe1cfc7f20bee243c1fa1f93262cd *man/error_A.Rd
+620d8c85fbf2b64de7dd497aa58bee15 *man/simplex_dist.Rd
+025c0e25e3f3ba60527b538c56f1f483 *man/topic_score.Rd
+6957ba4d04cbe0f5b52f9a1bc531d928 *man/vertices_est.Rd
